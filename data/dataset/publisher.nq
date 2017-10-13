@@ -1,0 +1,4 @@
+﻿<http://datadock.io/datadocktestorg/worldbank/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <http://datadock.io/datadocktestorg/worldbank/metadata>.
+<http://datadock.io/datadocktestorg/worldbank/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Test Organisation" <http://datadock.io/datadocktestorg/worldbank/metadata>.
+<http://datadock.io/datadocktestorg/worldbank/id/dataset/publisher> <http://xmlns.com/foaf/0.1/mbox> "contact@acme.org" <http://datadock.io/datadocktestorg/worldbank/metadata>.
+<http://datadock.io/datadocktestorg/worldbank/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "Test Organisation" <http://datadock.io/datadocktestorg/worldbank/metadata>.

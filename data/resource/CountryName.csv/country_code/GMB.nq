@@ -1,0 +1,2 @@
+﻿<http://datadock.io/datadocktestorg/worldbank/id/resource/CountryName.csv/country_code/GMB> <http://datadock.io/datadocktestorg/worldbank/id/definition/country_code> "GMB"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/worldbank/id/dataset/CountryName.csv>.
+<http://datadock.io/datadocktestorg/worldbank/id/resource/CountryName.csv/country_code/GMB> <http://www.w3.org/2000/01/rdf-schema#label> "Gambia, The"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/worldbank/id/dataset/CountryName.csv>.

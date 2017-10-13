@@ -1,0 +1,2 @@
+﻿<http://datadock.io/datadocktestorg/worldbank/id/resource/CountryName.csv/country_code/UGA> <http://datadock.io/datadocktestorg/worldbank/id/definition/country_code> "UGA"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/worldbank/id/dataset/CountryName.csv>.
+<http://datadock.io/datadocktestorg/worldbank/id/resource/CountryName.csv/country_code/UGA> <http://www.w3.org/2000/01/rdf-schema#label> "Uganda"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/worldbank/id/dataset/CountryName.csv>.
