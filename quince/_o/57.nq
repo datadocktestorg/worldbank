@@ -1,0 +1,2 @@
+﻿<http://datadock.io/datadocktestorg/worldbank/id/resource/CountryName.csv/country_code/SGP> <http://www.w3.org/2000/01/rdf-schema#label> "Singapore"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/worldbank/id/dataset/CountryName.csv>.
+<http://datadock.io/datadocktestorg/worldbank/id/resource/PopulationTotal_2000.csv/row_146> <http://datadock.io/datadocktestorg/worldbank/id/definition/value> "69094"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/worldbank/id/dataset/PopulationTotal_2000.csv>.
